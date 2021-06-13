@@ -30,7 +30,7 @@ Things I have learnt by completing this project:
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-* [Python 3](https://www.python.org/download/releases/)
+* [Python 3](https://www.python.org/downloads/release/python-395/)
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [Keras](https://keras.io/)
