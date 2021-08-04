@@ -14,7 +14,7 @@ I have used Keras to build a LSTM to predict stock prices using historical closi
 <img src="./assets/LSTM_prediction_plot_final.png" width="640px" height="480px" alt="Stock Price Predictor">
 
 ## Problem Highlights
-*The challenge of this project is to accurately predict the future closing value of a given stock across a given period of time in the future.  For this project I have used a Long Short Term Memory networks – usually just called “LSTMs” to predict the closing price of the S&P 500 using a dataset of past prices*
+*The challenge of this project is to accurately predict the future closing value of a given stock across a given period of time in the future.  For this project I have used a Long Short Term Memory networks – usually just called “LSTMs” to predict the closing price of Google's stock using a dataset of past prices*
 
 * **Achievements:**
   * Built a model to accurately predict the future closing price of a given stock, using Long Short Term Memory Neural net algorithm. 
